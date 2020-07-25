@@ -2,8 +2,6 @@
 
 React Native + Typescript mobile applications for nlw project.
 
-
-
 ## Package dependencies:
 
 ```
